@@ -8,3 +8,5 @@
 
 ## Projects
 - Smart File Organizer
+- File renamer
+- PDF Merger
