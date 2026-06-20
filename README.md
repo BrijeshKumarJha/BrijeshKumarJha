@@ -2,11 +2,12 @@
 
 ## Python Developer & Automation Enthusiast
 
-- Currently learning Python automation
-- Building real-world projects
+- Building automation tools with Python
+- Creating productivity and file-management solutions
+- Developing practical software projects
 - Interested in software engineering and freelancing
 
 ## Projects
 - Smart File Organizer
-- File renamer
-- PDF Merger
+- Bulk File Renamer
+- PDF Merger Tool
